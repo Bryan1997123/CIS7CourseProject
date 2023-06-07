@@ -11,6 +11,9 @@ A C++ program that implements the Vigenère Cipher, an encryption and decryption
 
 The Vigenère Cipher is a polyalphabetic substitution cipher that provides a more secure alternative to the simple Caesar cipher. It uses a keyword to determine the amount of shift for each letter in the plaintext. This program allows users to encode and decode messages using the Vigenère Cipher.
 
+![Vigenère Cipher Graph](https://github.com/Bryan1997123/CIS7CourseProject/assets/135768503/b606a656-d53f-4271-9747-be76ff4e122c)
+
+
 ## Usage
 
 Upon running the program, you will be prompted to choose between encoding or decoding a message.
